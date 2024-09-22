@@ -6,10 +6,10 @@ Este projeto tem como objetivo desenvolver uma aplicação web para o cadastro e
 
 Tecnologias Utilizadas:
 
-Spring Boot: Framework Java para desenvolvimento de aplicações web.
-JPA: Java Persistence API para mapeamento objeto-relacional.
-vollmed_api: Banco de dados utilizado (MySQL).
-Lombok: Para reduzir a quantidade de código boilerplate.
+<br>Spring Boot: Framework Java para desenvolvimento de aplicações web.
+<br>JPA: Java Persistence API para mapeamento objeto-relacional.
+<br>vollmed_api: Banco de dados utilizado (MySQL).
+<br>Lombok: Para reduzir a quantidade de código boilerplate.
 
 Funcionalidades:
 
