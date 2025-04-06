@@ -44,3 +44,10 @@ Configurando o banco de dados:
 <br>A aplicação estará disponível em http://localhost:8080 (ou outra porta configurada)
 
 Feedback: Foi incrível desenvolver este projeto! Os desafios, apesar de pequenos, foram ótimos para aprimorar minhas habilidades em Spring. A experiência foi muito gratificante
+
+
+Diagrama:
+![api](https://github.com/user-attachments/assets/225b2d24-2861-4817-932a-735e459748a0)
+
+
+
